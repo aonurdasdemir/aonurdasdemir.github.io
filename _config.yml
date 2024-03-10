@@ -40,7 +40,7 @@ plugins:
 # Site Author
 author:
   name             : "Ahmet Onur Dasdemir"
-  avatar           : "onur_photo.jpeg"
+  avatar           : "/images/onur_photo.jpg"
   bio              : "Data Scientist"
   location         : "Istanbul, Turkey"
   email            : "ahmetonurdasdemir@gmail.com"

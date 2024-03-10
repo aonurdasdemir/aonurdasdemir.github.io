@@ -1,0 +1,35 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+@import "minimal-mistakes/vendor/breakpoint/breakpoint"; // media query mixins
+@import "minimal-mistakes/variables";
+@import "minimal-mistakes/mixins";
+@import "minimal-mistakes/vendor/susy/susy";
+
+@import "minimal-mistakes/reset";
+@import "minimal-mistakes/base";
+
+@import "minimal-mistakes/utilities";
+@import "minimal-mistakes/animations";
+@import "minimal-mistakes/tables";
+@import "minimal-mistakes/buttons";
+@import "minimal-mistakes/notices";
+@import "minimal-mistakes/masthead";
+@import "minimal-mistakes/navigation";
+@import "minimal-mistakes/footer";
+@import "minimal-mistakes/syntax";
+
+@import "minimal-mistakes/forms";
+
+@import "minimal-mistakes/page";
+@import "minimal-mistakes/archive";
+@import "minimal-mistakes/sidebar";
+
+@import "minimal-mistakes/print";
