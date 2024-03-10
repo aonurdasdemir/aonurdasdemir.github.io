@@ -6,8 +6,6 @@ layout: single
 author_profile: true
 
 ---
-{% include base_path %}
 
 Lorem ipsum test
 
-{% include paginator.html %}
