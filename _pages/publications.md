@@ -6,10 +6,6 @@ sitemap: true
 permalink: /publications.html
 ---
 
-
-## Publications
-
-### Journal publications
 - Dasdemir, A. O., Dimici, C., Erdem, A., Magden, E. S., & Center, K. A. Physically Accurate Fast Nanophotonic Simulations with Physics Informed Model and Training. Neurips 2023, Machine Learning for Physical Sciences Workshop.
 
 - Dasdemir, Ahmet Onur, Victor Minden, and Emir Salih Magden. "Computational scaling in inverse photonic design through factorization caching." Applied Physics Letters 123.22 (2023).

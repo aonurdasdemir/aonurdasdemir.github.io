@@ -40,12 +40,12 @@ plugins:
 # Site Author
 author:
   name             : "Ahmet Onur Dasdemir"
-  avatar           : "onur_photo.jpg"
+  avatar           : "onur_photo.jpeg"
   bio              : "Data Scientist"
   location         : "Istanbul, Turkey"
   email            : "ahmetonurdasdemir@gmail.com"
   github           : "aonurdasdemir"
-  linkedin         : "aonurdasdemir"
+  linkedin         : "ahmetonurdasdemir"
 
 include: ["_pages"]
 
